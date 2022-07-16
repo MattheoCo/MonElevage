@@ -3,6 +3,7 @@ body
     background: url("journal de bord.webp") no-repeat;
 	background-attachment:fixed;
 	background-size: 100% ;
+        heigth: auto;
 	color:black;
 }
 
