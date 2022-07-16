@@ -1,9 +1,8 @@
 body
 {
-    background: url("journal de bord.webp") no-repeat;
-	background-attachment:fixed;
-	background-size: 100% ;
-	color:black;
+    background: url("fond_site.jpg") no-repeat center fixed;
+	background-size: cover ;
+	color:white;
 }
 
 h1{
@@ -48,6 +47,11 @@ h3{
 	margin-left:60%
 }
 
+.aqua
+{
+	margin-left:42%
+}
+
 .journal
 {
 	font-family:Verdana;
@@ -65,6 +69,11 @@ h3{
 	margin-right:16%;
 	margin-left:30%;
 	font-size:175%;
-	background-color:silver;
-	opacity:0.85;
+}
+
+.intro
+{
+	font-size: 125%;
+	margin-left:10%;
+	margin-right:5%;
 }
